@@ -1,6 +1,6 @@
 # Hi there, I'm David! 👋
 
-![Banner Image]()
+![Banner Image](https://github.com/djuwhite/djuwhite/blob/main/img/ProfilePhoto.jpg)
 
 ## About Me 🚀
 
