@@ -36,7 +36,7 @@ My IT skills have grown rusty but now that I am retired, I have time to sharpen 
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(https://usmarwhite.com)
+- **[Personal Website / Blog]**(https://ha.usmarwhite.com)
 - **[LinkedIn]**(https://www.linkedin.com/in/djuwhite/)
 
 
